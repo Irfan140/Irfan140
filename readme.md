@@ -7,13 +7,13 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** and **Problem S
 ## 🚀 About Me
 - 🌱 **Currently Learning**: MERN Stack and DSA.
 - 💻 **Hobbies**: Chess enthusiast, coding competitions, ethical hacking.
-- 👨‍💻 **GitHub**: Over 180 questions solved on LeetCode, steadily improving in DSA with more than 80 days of consistent practice.
+- 👨‍💻 **Progress**: Over 180 questions solved on LeetCode, steadily improving in DSA with more than 80 days of consistent practice.
 
 ## 💼 Skills
 - **Programming Languages**: C, C++, Java, JavaScript
-- **Frontend**: HTML, CSS, JavaScript, Tailwind CSS
+- **Frontend**: HTML, CSS, JavaScript, Tailwind CSS, React
 - **Backend**: Node.js, Express.js, MongoDB
-- **Tools**: Git, GitHub, VS Code
+- **Tools**: Git, GitHub, VS Code, Linux
 
 ---
 
