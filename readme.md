@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Irfan
 
-Welcome to my GitHub profile! I'm a passionate **Web Developer** and **Problem Solver** currently pursuing my B.Tech at **Haldia Institute of Technology, Haldia**. I love building efficient, user-friendly web applications and constantly work on enhancing my skills in **Data Structures and Algorithms (DSA)**, **Java**, and **MERN stack**.
+Welcome to my GitHub profile! I'm a passionate **Web Developer** and **Problem Solver** currently pursuing my B.Tech at **Haldia Institute of Technology, Haldia**. I love building efficient, user-friendly web applications and constantly work on enhancing my skills in **Data Structures and Algorithms (DSA)**and **MERN stack**.
 
 ---
 
