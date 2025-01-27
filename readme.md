@@ -5,16 +5,16 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** and **Problem S
 ---
 
 ## 🚀 About Me
-- 🌱 **Currently Learning**: Data Science, Machine Learning, and MERN Stack.
+- 🌱 **Currently Learning**: Data Science.
 - 🧠 **Skills Gained**: Proficient in Python and continuing to deepen my knowledge in DSA.
 - 💻 **Hobbies**: Chess enthusiast, coding competitions.
-- 👨‍💻 **Progress**: Over 180 questions solved on LeetCode, steadily improving in DSA with more than 80 days of consistent practice.
+- 👨‍💻 **Progress**: Over 200 questions solved on LeetCode, steadily improving in DSA with more than 150 days of consistent practice.
 
 ---
 
 ## 💼 Skills
 - **Programming Languages**: C, C++, Python, JavaScript
-- **Frontend**: HTML, CSS, JavaScript, Tailwind CSS, React
+- **Frontend**: HTML, CSS, Tailwind CSS, React
 - **Backend**: Node.js, Express.js, MongoDB
 - **Tools**: Git, GitHub, VS Code, Linux
 
