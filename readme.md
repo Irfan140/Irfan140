@@ -1,45 +1,72 @@
-# Hi there! 👋 I'm Irfan
-
-I'm a passionate **Full Stack Web App Developer**  currently pursuing my B.Tech at **Haldia Institute of Technology, Haldia**. I love building efficient, user-friendly web applications.
-
----
-
-## 🚀 About Me
-- 🌱 **Currently Learning**: Data Science.
-- 💻 **Hobbies**: Chess enthusiast, reading books, learning Japanese.
-- 👨‍💻 **Progress**: Over 200+ peoblems solved on LeetCode, made 15+ Projects
-- 🌟 **Technical Team Member** at IETE society, contributing to technical events and workshops.
-- 💊 **GFG Campus Ambassador**, promoting coding culture and organizing workshops.
+<h1 align="center">Hi there, I'm Irfan 👋</h1>
+<p align="center">
+  <b>Full Stack Web Developer | Data Science Enthusiast | Japanese Learner 🇯🇵</b><br/>
+  Currently pursuing B.Tech at <b>Haldia Institute of Technology</b>
+</p>
 
 ---
 
-## 🌟 Skills
-- **Programming Languages**: C, C++, Python, JavaScript
-- **Frontend**: HTML, CSS, Tailwind CSS, React.js
-- **Backend**: Node.js, Express.js, Flask
-- **Databases**: MongoDB
-- **Data Science**: Statistical Analysis, Machine Learning (Supervised & Unsupervised), Data Visualization, Python Libraries (Pandas, Scikit-learn, etc.), NLP, Deep Learning (ANN, CNN, RNN etc.)
-- **Tools**: Git, VS Code, Jupyter Notebook, Postman, Kali Linux, Docker
+### 🌐 Connect with Me:
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.irfanmehmud.site/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfan-mehmud-7a409b280/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MehmudIrfan)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_irfan_140_/)
 
 ---
 
-## 📚 My Repositories
-- 🔗 [My DSA Progress](https://github.com/Irfan140/My-DSA-progress): Documenting my journey and progress in DSA.
-- 🔗 [Mini-Projects](https://github.com/Irfan140/Mini-projects): Explore some of my mini-projects, including a password generator and register page.
-- 🔗 [Data Science Journey](https://github.com/Irfan140/Data-Science-Journey): Highlighting my exploration of Data Science concepts and projects.
-- 🔗 [Exam Score Prediction](https://github.com/Irfan140/Exam-score-prediction): Built a predictive model using Supervised ML Algorithms.
-- 🔗 [Portfolio Website](https://www.irfanmehmud.site/): My personal portfolio showcasing projects, skills, and achievements.
-- 🔗 [Video Platform Backend (In Progress)](https://github.com/Irfan140/Backend-Mega-Project): Developing a backend API for a video platform similar to YouTube.
+### 🧠 About Me:
+
+- 🌱 Currently Learning: **Data Science**
+- 🎯 Goals: Solve real-world problems through ML & Web Dev
+- 👨‍💻 200+ LeetCode problems solved, 15+ Projects built
+- 🧩 Tech Team Member at **IETE Society**
+- 📣 **GFG Campus Ambassador**
 
 ---
 
-## 🌐 Connect with Me
-- [Portfolio](https://www.irfanmehmud.site/)
-- 🎓 [LinkedIn](https://www.linkedin.com/in/irfan-mehmud-7a409b280/)
-- 🗳️ [Twitter](https://x.com/MehmudIrfan)
-- 🎥 [Instagram](https://www.instagram.com/_irfan_140_/)
+### 💻 Tech Stack:
+
+#### Languages:
+![C](https://img.shields.io/badge/-C-000?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
+
+#### Web:
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000?style=flat-square&logo=express)
+
+#### Data Science & Tools:
+![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn)
 
 ---
 
-Thank you for visiting my profile! Let's connect and work on exciting projects together!
+### 📊 GitHub Stats:
 
+![Irfan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Irfan140&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Irfan140&layout=compact&theme=radical)
+
+---
+
+### 📂 Featured Projects:
+
+- 🔗 [My DSA Progress](https://github.com/Irfan140/My-DSA-progress)
+- 🔗 [Mini-Projects](https://github.com/Irfan140/Mini-projects)
+- 🔗 [Data Science Journey](https://github.com/Irfan140/Data-Science-Journey)
+- 🔗 [Exam Score Prediction](https://github.com/Irfan140/Exam-score-prediction)
+- 🔗 [Portfolio Website](https://www.irfanmehmud.site/)
+- 🔗 [Video Platform Backend (In Progress)](https://github.com/Irfan140/Backend-Mega-Project)
+
+---
+
+### 🙌 Let's Build Something Great Together!
