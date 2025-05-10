@@ -18,8 +18,8 @@ I'm a passionate **Full Stack Web App Developer**  currently pursuing my B.Tech 
 - **Frontend**: HTML, CSS, Tailwind CSS, React.js
 - **Backend**: Node.js, Express.js, Flask
 - **Databases**: MongoDB
-- **Data Science**: Statistical Analysis, Machine Learning (Supervised & Unsupervised), Data Visualization, Python Libraries (Pandas, Scikit-learn, etc.), NLP, Deep Learning
-- **Tools**: Git, VS Code, Jupyter Notebook, Postman, Kali Linux
+- **Data Science**: Statistical Analysis, Machine Learning (Supervised & Unsupervised), Data Visualization, Python Libraries (Pandas, Scikit-learn, etc.), NLP, Deep Learning (ANN, CNN, RNN etc.)
+- **Tools**: Git, VS Code, Jupyter Notebook, Postman, Kali Linux, Docker
 
 ---
 
