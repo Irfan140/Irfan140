@@ -12,16 +12,13 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://www.irfanmehmud.site/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfan-mehmud-7a409b280/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MehmudIrfan)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_irfan_140_/)
 
 ---
 
 ## 🚀 About Me
-- 🌱 **Currently Learning**: Data Science
+- 🌱 **Currently Learning**: GenerativeAI
 - 💻 **Hobbies**: Chess enthusiast ♟️, reading books 📚, learning Japanese 🇯🇵
 - 👨‍💻 **Progress**: Solved 200+ problems on LeetCode, completed 15+ Projects
-- 🌟 **Technical Team Member** at IETE Society
-- 💊 **GFG Campus Ambassador**
 
 ---
 
@@ -36,7 +33,6 @@
 **Frontend:**
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
 
 **Backend & Frameworks:**
@@ -63,18 +59,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter)
-![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kalilinux)
 
----
-
-## 📂 Featured Repositories
-
-- 🔗 [My DSA Progress](https://github.com/Irfan140/My-DSA-progress) — Tracking my DSA journey.
-- 🔗 [Mini-Projects](https://github.com/Irfan140/Mini-projects) — Fun small projects.
-- 🔗 [Data Science Journey](https://github.com/Irfan140/Data-Science-Journey) — All my DS concepts.
-- 🔗 [Exam Score Prediction](https://github.com/Irfan140/Exam-score-prediction) — ML model predicting student scores.
-- 🔗 [Video Platform Backend (In Progress)](https://github.com/Irfan140/Backend-Mega-Project) — YouTube-like API system.
-- 🔗 [Portfolio Website](https://www.irfanmehmud.site/) — My professional portfolio.
 
 ---
 
