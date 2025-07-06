@@ -1,9 +1,6 @@
-<h1 align="center">Hi there! 👋 I'm Irfan</h1>
-
-<p align="center">
-  I'm a passionate <strong>Backend Developer</strong> currently pursuing my B.Tech at <strong>Haldia Institute of Technology, Haldia</strong>.<br />
+Irfan Mehmud,  a passionate <strong>Backend Developer</strong> currently pursuing my B.Tech at <strong>Haldia Institute of Technology, Haldia</strong>.<br />
   I love building efficient, user-friendly web applications and exploring the world of Data Science.
-</p>
+
 
 ---
 
@@ -11,17 +8,16 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://www.irfanmehmud.site/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfan-mehmud-7a409b280/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MehmudIrfan)
 
 ---
 
 ## 🚀 About Me
 - 🌱 **Currently Learning**: GenerativeAI
-- 💻 **Hobbies**: Chess enthusiast ♟️, reading books 📚, learning Japanese (JNLPT N5 prep 🇯🇵)
+- 💻 **Hobbies**: Chess enthusiast ♟️, reading books 📚, learning Japanese (JLPT N5 prep 🇯🇵)
 - 👨‍💻 **Progress**: Solved 200+ problems on LeetCode, developed 15+ Projects
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Technical Skills 
 
 ## 💻 Programming Languages  
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
