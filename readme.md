@@ -1,4 +1,4 @@
-Irfan Mehmud,  a passionate <strong>Backend Developer</strong> currently pursuing my B.Tech at <strong>Haldia Institute of Technology, Haldia</strong>.<br />
+Irfan Mehmud,  a passionate <strong>Full Stack Developer</strong> currently pursuing his B.Tech at <strong>Haldia Institute of Technology, Haldia</strong>.<br />
   I love building efficient, user-friendly web applications and exploring the world of Data Science.
 
 
@@ -19,11 +19,19 @@ Irfan Mehmud,  a passionate <strong>Backend Developer</strong> currently pursuin
 
 # 🛠️ Technical Skills 
 
-## 💻 Programming Languages  
+## 💻 Languages  
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=database&logoColor=white)
+
+---
+
+## 🎨 Frontend Technologies  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ---
 
@@ -36,6 +44,7 @@ Irfan Mehmud,  a passionate <strong>Backend Developer</strong> currently pursuin
 
 ## 🗄️ Databases  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
@@ -65,6 +74,7 @@ Irfan Mehmud,  a passionate <strong>Backend Developer</strong> currently pursuin
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+
 
 
 ---
