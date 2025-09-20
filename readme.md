@@ -9,7 +9,7 @@ I love building efficient, user-friendly applications and exploring the world of
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge\&logo=firefox-browser\&logoColor=white)](https://www.irfanmehmud.site/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/irfan-mehmud-7a409b280/)
-[![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/your_x_handle)
+[![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/learnatick)
 
 ---
 
