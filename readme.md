@@ -1,8 +1,6 @@
 # Hi there 👋, I'm Irfan Mehmud
 
-A passionate <strong>Full Stack Developer</strong> currently pursuing my B.Tech at <strong>Haldia Institute of Technology, Haldia</strong>.
-I love building efficient, user-friendly applications and exploring the world of AI.
-
+A <strong>Full Stack Developer</strong>  with experience in React Native, Node.js/Express, and MongoDB, currently focused on building AI-powered mobile applications. My background in machine learning (TensorFlow, Scikit-learn, Pandas) helps me integrate Generative AI into apps, combining development with intelligence.
 ---
 
 ## 📱 Socials
