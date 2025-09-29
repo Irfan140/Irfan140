@@ -1,6 +1,12 @@
 # Hi there 👋, I'm Irfan Mehmud
 
-A <strong>Full Stack Developer</strong>  with experience in React Native, Node.js/Express, and MongoDB, currently focused on building AI-powered mobile applications. My background in machine learning (TensorFlow, Scikit-learn, Pandas) helps me integrate Generative AI into apps, combining development with intelligence.
+I’m a **Full Stack Developer** with strong expertise in React Native, Node.js/Express, and MongoDB. I specialize in building **AI-powered mobile applications**, leveraging my background in machine learning (TensorFlow, Scikit-learn, Pandas) to integrate generative AI features into projects. I combine development skills with intelligent design to create apps that are both robust and smart.
+
+Some key highlights about me:  
+- 💡 **Focus:** Currently building AI-driven mobile apps that blend frontend and backend technologies seamlessly.  
+- 🤖 **ML Integration:** I use my ML knowledge (TensorFlow, Pandas, etc.) to bring data-driven intelligence into applications.  
+- 🌱 **Lifelong Learning:** Continuously exploring new tools and frameworks (LangChain, Hugging Face, etc.) to keep my solutions cutting-edge.  
+
 ---
 
 ## 📱 Socials
