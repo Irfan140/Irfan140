@@ -26,10 +26,10 @@
 
 ---
 
-<h2 align="left">🔸 Connect With Me</h2>
+<h2 align="left">🔸Connect With Me</h2>
 
 <p align="center">
-  <a href="[https://www.irfanmehmud.site/](https://www.linkedin.com/in/irfan-mehmud-7a409b280/)" target="_blank">
+  <a href="https://www.irfanmehmud.site/](https://www.linkedin.com/in/irfan-mehmud-7a409b280" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="100" alt="portfolio logo" />
   </a>
 
