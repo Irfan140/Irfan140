@@ -1,21 +1,47 @@
-# Hi there 👋, I'm Irfan Mehmud
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-I’m a **Full Stack Developer** with strong expertise in React Native, Node.js/Express, and MongoDB. I specialize in building **AI-powered mobile applications**, leveraging my background in machine learning (TensorFlow, Scikit-learn, Pandas) to integrate generative AI features into projects. I combine development skills with intelligent design to create apps that are both robust and smart.
+<h1 align="center">Hey 👋, I'm Irfan Mehmud</h1>
+<h3 align="center">Full Stack & AI-Powered Mobile App Developer | React Native • Node.js • ML</h3>
 
-Some key highlights about me:  
-- 💡 **Focus:** Currently building AI-driven mobile apps that blend frontend and backend technologies seamlessly.  
-- 🤖 **ML Integration:** I use my ML knowledge (TensorFlow, Pandas, etc.) to bring data-driven intelligence into applications.  
-- 🌱 **Lifelong Learning:** Continuously exploring new tools and frameworks (LangChain, Hugging Face, etc.) to keep my solutions cutting-edge.  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="gradient line" width="100%">
+</p>
+
+<img align="right" alt="Coding" width="420" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Irfan140&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+## 🚀 **About Me**
+
+- 👨‍💻 Full-Stack Developer specialized in **AI-powered React Native Apps**
+- 🤖 Practical ML experience (**TensorFlow, Pandas, Scikit-Learn**) to train custom models
+- 🧠 Exploring **LangChain, HuggingFace, LLMs, Vector DBs**
+- 🌱 Always learning & building smarter mobile experiences
+
+> I combine strong engineering foundations with AI integration to build smart, production-ready apps.
 
 ---
 
-## 📱 Socials
+<h2 align="left">🔸 Connect With Me</h2>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge\&logo=firefox-browser\&logoColor=white)](https://www.irfanmehmud.site/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/irfan-mehmud-7a409b280/)
-[![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/learnatick)
+<p align="center">
+  <a href="[https://www.irfanmehmud.site/](https://www.linkedin.com/in/irfan-mehmud-7a409b280/)" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="100" alt="portfolio logo" />
+  </a>
 
----
+  <a href="https://x.com/learnatick" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" height="100" alt="x-twitter logo" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="divider" width="100%">
+</p>
+
 
 
 # 🛠️ Technical Skills
@@ -50,6 +76,12 @@ Some key highlights about me:
 
 
 ---
+<h2 align="left">🔸 Contribution Graph</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhrubojyot&bg_color=0d1117&color=daa520&line=39ff14&point=39ff14&area=true&hide_border=true" />
+</div>
+
+---
 
 ## 📊  Some Metrics  of mine
 
@@ -58,8 +90,16 @@ Some key highlights about me:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Irfan140&theme=radical" alt="Profile Details" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Irfan140&theme=radical" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Irfan140&theme=radical&utcOffset=5.5" alt="Commits per Day" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irfan140&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact"" alt="Irfan140" />
   <br />
+ 
   <!-- LeetCode Stats -->
   <img src="https://leetcard.jacoblin.cool/omaiwa?theme=dark&font=Nunito&ext=activity" alt="LeetCode Stats" />
 </p>
+
+<h2 align="left">🔸 Random Dev Quote</h2>
+<div align="left"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random quote"/> </div>
+<img align="center" alt="runner" width="100%" src="https://raw.
+
+
 
