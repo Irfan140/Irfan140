@@ -21,8 +21,8 @@
 
 - **[NoteFlow](https://github.com/Irfan140/NoteFlow):** A clean note-taking app designed for organizing ideas quickly and efficiently.
 - **[NutriSnap](https://github.com/Irfan140/NutriSnap):** A nutrition-focused app that helps users track their meal calories and make healthier food choices.
-- **[Mobleet](https://github.com/Irfan140/Mobleet):** A mobile-first coding practice app where users solve algorithm problems, run code against hidden tests, and track progress over time.
-- **[CineScop](https://github.com/Irfan140/CineScop):** A movie/TV shows discovery app for browsing, exploring, and tracking them.
+- **[LeetLab](https://github.com/Irfan140/LeetLab):** A mobile-first coding practice app where users solve algorithm problems, run code against hidden tests, and track progress over time.
+- **[CineScope](https://github.com/Irfan140/CineScope):** A movie/TV shows discovery app for browsing, exploring, and tracking them.
 
 ## 📫 Connect With Me
 
